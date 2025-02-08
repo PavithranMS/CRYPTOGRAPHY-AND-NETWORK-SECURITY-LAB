@@ -4,7 +4,7 @@ SERVER :
 The server takes plaintext and a key as input, encrypts the message, and sends it to the client.
 
 CLIENT:
-The client receives the encrypted message, decrypts it using the same key, and prints the output.
+The client receives the encrypted message, decrypts it using the key, and prints the output.
 
 LIST OF PROGRAMS: (SERVER - CLIENT)
 
