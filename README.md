@@ -6,7 +6,7 @@ The server takes plaintext and a key as input, encrypts the message, and sends i
 CLIENT:
 The client receives the encrypted message, decrypts it using the key, and prints the output.
 
-LIST OF PROGRAMS: (SERVER - CLIENT)
+LIST OF PROGRAMS: 
 
 1. CLASSICAL ENCRYPTION TECHNIQUES
    1.1. SUBSTITUTION
@@ -25,4 +25,6 @@ LIST OF PROGRAMS: (SERVER - CLIENT)
 
 4. RSA (RIVEST-SHAMIR-ADLEMAN)
 
-5. DIFFIE-HELLMAN KEY EXCHANGE
+5. MAN IN THE MIDDLE ATTACK IN DIFFIE-HELLMAN KEY EXCHANGE
+
+6. MD5
